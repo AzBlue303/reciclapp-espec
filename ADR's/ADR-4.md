@@ -12,4 +12,4 @@ Se realizarán pruebas para comprobar que el manejo de los datos es el correcto 
 ## Notas: 
 Autor: Francisca Neira f.neira04@ufromail.cl <br />
 Día de publicación: 28/05/2025 <br />
-Última Actualización: 28/05/2025
+Última Actualización: 01/06/2025
