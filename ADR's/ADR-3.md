@@ -10,6 +10,6 @@ Utilizar PostgreSQL hace más seguro el almacenamiento de las credenciales de lo
 ## Cumplimiento: 
 Creando índices con índices GIN de PostgresSQL permite que la búsqueda de datos sea más óptima, y al utilizar PostGIS (Geographic Information Systems) se podrá filtrar los sensores por la ubicación geográfica del usuario.
 ## Notas: 
-Autor: Ignacio Pérez <br />
+Autor: Ignacio Pérez i.perez06@ufromail.cl<br />
 Día de publicación: 28/05/2025 <br />
 Última Actualización: 28/05/2025
